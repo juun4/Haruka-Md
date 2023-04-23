@@ -93,16 +93,16 @@
 
 ----------
 
-## FOR DOPRAX USER 
+## LINK GROUP PRIBADI
 
-[![Deploy on doprax](https://www.linkpicture.com/q/doprax-zeeoneofc.my.id.svg)](https://www.doprax.com/r/zeeoneofc/)
+> **Group pribadi buat tes bot**
 
-[`Tutorial soon`](https://youtu.be/BqRauxohbLg)<br>
+[`Link group'](https://chat.whatsapp.com/CnhLvTHX6ak7kjp22ZMqwE)<br>
 
 ----------
 
 <!-- <p align="center">
-  <a href="https://youtu.be/BqRauxohbLg"><img src="https://telegra.ph/file/ba58c4ad1b43bc285f16b.jpg" />
+  <a href="https://chat.whatsapp.com/CnhLvTHX6ak7kjp22ZMqwE"><img src="https://telegra.ph/file/ba58c4ad1b43bc285f16b.jpg" />
 </p> -->
 
 ## For Termux
