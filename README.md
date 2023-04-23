@@ -1,6 +1,6 @@
 ## INFO OWNER
 
-> **Warning**: Sc nya gk support termux. [`Klik disini untuk download sc yg support termux`](https://github.com/zeeoneofficial/Haruka-Md#For-Termux)
+> **Save Wa Gw Coy**: Lumayan penonton sw nambah satu mwehehe. [`Link Wa Gw`](http://bit.ly/3xRPtwP)
 
 -----------------------------------------------------
 
