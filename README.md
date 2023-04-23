@@ -47,7 +47,7 @@
 
 ----------
 <p align="center">
-  <a href="https://instagram.com/juun4_"><img src="https://telegra.ph/file/dd32f9b493adc7a6ea33f.jpg" />
+  <a href="https://instagram.com/juun4_"><img src="https://telegra.ph/file/7ccb03618ed3af967cd48.jpg" />
 </p>
 <br>
 
