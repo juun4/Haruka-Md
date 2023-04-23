@@ -42,7 +42,7 @@
 ## Instagram
 
 ```
-Https://instagram.com/juun4_
+> **Jan Lupa Follow Ya**: Follow ig gw ntar gw back kok:3. [`Link Ig`](http://instagram.com/juun4_) 
 ```
 
 --------
