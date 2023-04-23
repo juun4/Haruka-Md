@@ -52,16 +52,16 @@
 <br>
 
 ----------
-## FOR RAILWAY USER 
+## FACEBOOK
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app?referralCode=zeeoneofc)
+> **Jan lupa add fb gw juga ehe**
 
-[`Click Here For Tutorial`](https://youtu.be/BqRauxohbLg)<br>
+[`Link fb`](https://www.facebook.com/profile.php?id=100038641283471)<br>
 
 ----------
 
 <p align="center">
-  <a href="https://youtu.be/BqRauxohbLg"><img src="https://telegra.ph/file/ba58c4ad1b43bc285f16b.jpg" />
+  <a href="https://www.facebook.com/profile.php?id=100038641283471"><img src="https://telegra.ph/file/63eb2e046c0741758dc45.jpg" />
 </p>
 <br>
 
