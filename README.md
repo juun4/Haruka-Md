@@ -1,6 +1,6 @@
 ## INFO OWNER
 
-> **Save Wa Gw Coy**: Lumayan penonton sw nambah satu mwehehe. [`Link Wa Gw`](http://bit.ly/3xRPtwP)
+> **Save Wa Gw Coy ,Lumayan penonton sw nambah satu mwehehe** [`Link Wa Gw`](http://bit.ly/3xRPtwP)
 
 -----------------------------------------------------
 
@@ -39,19 +39,11 @@
 ---
 
 # Beberapa Akun Sosmed Lainnya
-## Instagram
+## INSTAGRAM 
 
-```
-> **Jan Lupa Follow Ya**: Follow ig gw ntar gw back kok:3. [`Link Ig`](http://instagram.com/juun4_) 
-```
+> **Jan lupa follow ig gw ya ntar gw follback kok:3**
 
---------
-
-## FOR HEROKU USER 
-
-[![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/login)
-
-[`Click Here For Tutorial`](https://youtu.be/2grMt0TbfOM)<br>
+[`Link ig`](https://instagram.com/juun4_)<br>
 
 ----------
 <p align="center">
