@@ -119,14 +119,14 @@
 
 ```ts
 {
-    "ownerNumber": ["622150996855@s.whatsapp.net","622150996855@s.whatsapp.net"],
-    "ownerName": "ᴹᴿ᭄ ZeeoneOfcོ ×፝֟͜×",
-    "instagram" : "https://instagram.com/zeeoneofc",
-    "botName": "Haruka-Mdོ ",
+    "ownerNumber": ["6285727631507@s.whatsapp.net","6285727631507@s.whatsapp.net"],
+    "ownerName": "Junaa Selebew🥶",
+    "instagram" : "https://instagram.com/juun4_",
+    "botName": "Junaa Bot",
     "footer": "api.zeeoneofc.xyz",
     "sessionName": "session",
     "pathimg": "./media/Haruka.jpg",
-    "BotKey": "Gsyt6jRJ",
+    "BotKey": "TjC5yoTYeehhLsU",
     "auto_welcomeMsg": true,
     "auto_leaveMsg": true,    
     "autobio": true,
@@ -145,8 +145,7 @@
 
 ## Donate
 - [Saweria](https://saweria.co/Juun4_)
-- [Dana](https://j.top4top.io/p_20532posd1.jpg)
-- [Ovo](https://h.top4top.io/p_2053vk0uw1.jpg)
+- [Dana](https://telegra.ph/file/dfdee40fbb8ae05f47eb9.jpg)
 
 # Group Tes Bot
 - [GROUP PRIBADI NIH](https://chat.whatsapp.com/CnhLvTHX6ak7kjp22ZMqwE)
