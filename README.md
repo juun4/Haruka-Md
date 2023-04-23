@@ -5,7 +5,7 @@
 -----------------------------------------------------
 
 <p align="center">
-<img src="https://github.com/juun4/Haruka-Md/Haruka.jpg" alt="ALPHA BOT" width="100"/>
+<img src="https://telegra.ph/file/557768004e229fbb0e812.jpg" alt="ALPHA BOT" width="100"/>
 
 
 </p>
