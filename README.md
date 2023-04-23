@@ -79,18 +79,10 @@
 <br>
 
 ----------
-## FOR REPLIT USER
-[![Run on Repl.it](https://repl.it/badge/github/zeeoneofficial/Alphabot-Md)](https://repl.it/github/zeeoneofficial/Alphabot-Md)
-------
-<p align="center">
-  <a href="https://youtu.be/jom_scHK09c"><img src="https://telegra.ph/file/873e2bbfbd1f15a535995.jpg" />
-</p>
-<br>
+## WA BOT
+> **Wa bot gw gratis gunain sepuasnya**
 
-----------
-## FOR PANEL USER 
-
-[`Click Here For Tutorial`](https://youtu.be/H2BZ3KFvQys)
+[`Link wa bot`](https://youtu.be/H2BZ3KFvQys)
 
 ----------
 
@@ -152,14 +144,10 @@
 ```
 
 ## Donate
-- [Saweria](https://saweria.co/zeeoneofc)
+- [Saweria](https://saweria.co/Juun4_)
 - [Dana](https://j.top4top.io/p_20532posd1.jpg)
 - [Ovo](https://h.top4top.io/p_2053vk0uw1.jpg)
 
-# Official Group
-- [Group 1](https://chat.whatsapp.com/EU890BcXjyBDkNaUT5WmYV)
-- [Group 2](https://chat.whatsapp.com/E8NExJwIbhBJYzssfqJNsE)
-- [Group 3](https://chat.whatsapp.com/KCSqHTky1apG7ApePsfiPy)
-- [Group 4](https://chat.whatsapp.com/KwmvHr7VMFj7r5ry9xmMsU)
-- [Group 5](https://chat.whatsapp.com/ELa7GhU0sP4EvXcVimQYtz)
+# Group Tes Bot
+- [GROUP PRIBADI NIH](https://chat.whatsapp.com/CnhLvTHX6ak7kjp22ZMqwE)
 
