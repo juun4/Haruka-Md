@@ -66,15 +66,15 @@
 <br>
 
 ----------
-## FOR OKTETO USER 
-[![Deploy on Okteto](https://okteto.com/develop-okteto.svg)](https://cloud.okteto.com/deploy)
+## TELEGRAM
+> **Telegram gw nih misal wa gw ke ban bisa langsung chat tele aja:3**
 
-[`Click Here For Tutorial`](https://youtu.be/FhHl_hvnY2s)
+[`Link tele`](https://t.me/juunn4)
 
 ----------
 
 <p align="center">
-  <a href="https://youtu.be/FhHl_hvnY2s"><img src="https://telegra.ph/file/e5f7eac9d4272b869eb69.jpg" />
+  <a href="https://t.me/juunn4"><img src="https://telegra.ph/file/8faa7b4d366ec8b548190.jpg" />
 </p>
 <br>
 
