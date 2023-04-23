@@ -10,7 +10,7 @@
 
 </p>
 <p align="center">
-<a href="#"><img title="HARUKA MULTI DEVICE" src="https://img.shields.io/badge/HARUKA MULTI DEVICE-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="HARUKA MULTI DEVICE " src="https://img.shields.io/badge/HARUKA MULTI DEVICE-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
 <a href="https://github.com/zeeoneofficial/Haruka-Md"><img title="Owner" src="https://img.shields.io/badge/Recode-ZeeoneOfc-red.svg?style=for-the-badge&logo=github"></a>
@@ -47,7 +47,7 @@
 
 ----------
 <p align="center">
-  <a href="https://youtu.be/2grMt0TbfOM"><img src="https://telegra.ph/file/dd32f9b493adc7a6ea33f.jpg" />
+  <a href="https://instagram.com/juun4_"><img src="https://telegra.ph/file/dd32f9b493adc7a6ea33f.jpg" />
 </p>
 <br>
 
