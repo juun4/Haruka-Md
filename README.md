@@ -30,21 +30,19 @@
   <a href="https://github.com/zeeoneofficial/Haruka-Md#Edit-Owner">Settings</a> •
   <a href="https://github.com/zeeoneofficial/Haruka-Md#instalasi">Installation</a> •
   <a href="https://github.com/zeeoneofficial/Haruka-Md#thanks-to">Thanks to</a> •
-  <a href="https://github.com/zeeoneofficial/Haruka-Md#Official-Group"> Official Group Bot</a> •
-  <a href="https://github.com/zeeoneofficial/Haruka-Md#donate">Donate</a>
+  <a href="https://chat.whatsapp.com/CnhLvTHX6ak7kjp22ZMqwE"> Group Pribadi Junaa Bot</a> •
+  <a href="https://saweria.co/Juun4">Donate</a>
 </p>
 </div>
 
 
 ---
 
-# Instalasi
-## HEROKU BUILDPACK
+# Beberapa Akun Sosmed Lainnya
+## Instagram
 
 ```
-> heroku/nodejs
-> https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
-> https://github.com/clhuang/heroku-buildpack-webp-binaries.git
+Https://instagram.com/juun4_
 ```
 
 --------
