@@ -97,7 +97,7 @@
 
 > **Group pribadi buat tes bot**
 
-[`Link group'](https://chat.whatsapp.com/CnhLvTHX6ak7kjp22ZMqwE)
+[`Link group`](https://chat.whatsapp.com/CnhLvTHX6ak7kjp22ZMqwE)
 
 ----------
 
