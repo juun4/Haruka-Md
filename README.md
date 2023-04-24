@@ -82,12 +82,12 @@
 ## WA BOT
 > **Wa bot gw gratis gunain sepuasnya**
 
-[`Link wa bot`](https://youtu.be/H2BZ3KFvQys)
+[`Link wa bot`](wa.me/6285727631507)
 
 ----------
 
 <p align="center">
-  <a href="https://youtu.be/H2BZ3KFvQys"><img src="https://telegra.ph/file/d2ab9876306da1e9c55d5.jpg" />
+  <a href="wa.me/6285727631507"><img src="https://telegra.ph/file/408f1fad2dcf5c7f4fda8.jpg" />
 </p>
 <br>
 
