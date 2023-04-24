@@ -102,16 +102,9 @@
 ----------
 
 <!-- <p align="center">
-  <a href="https://chat.whatsapp.com/CnhLvTHX6ak7kjp22ZMqwE"><img src="https://telegra.ph/file/ba58c4ad1b43bc285f16b.jpg" />
-</p> -->
-
-## For Termux
-- [Download script MediaFire](https://youtu.be/m-m4-Jy-oWM)
-
-<p align="center">
-<a href="https://youtu.be/m-m4-Jy-oWM"><img src="https://telegra.ph/file/932b33b3f238cf6b054f8.jpg" />
+  <a href="https://chat.whatsapp.com/CnhLvTHX6ak7kjp22ZMqwE"><img src="https://telegra.ph/file/408f1fad2dcf5c7f4fda8.jpg" />
 </p>
-
+<br>
 ## Edit Owner 
 
 <details>
