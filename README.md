@@ -97,12 +97,12 @@
 
 > **Group pribadi buat tes bot**
 
-[`Link group'](https://chat.whatsapp.com/CnhLvTHX6ak7kjp22ZMqwE)<br>
+[`Link group'](https://chat.whatsapp.com/CnhLvTHX6ak7kjp22ZMqwE)
 
 ----------
 
-<!-- <p align="center">
-  <a href="https://chat.whatsapp.com/CnhLvTHX6ak7kjp22ZMqwE"><img src="https://telegra.ph/file/408f1fad2dcf5c7f4fda8.jpg" />
+<p align="center">
+  <a href="https://chat.whatsapp.com/CnhLvTHX6ak7kjp22ZMqwE"><img src="https://telegra.ph/file/57730eed50565573cf305.jpg" />
 </p>
 <br>
 ## Edit Owner 
